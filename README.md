@@ -6,7 +6,7 @@
 
 以下内容为课程大纲，对勾表示已看过并总结了，未打勾对✔表示我还没看，也还没总结。
 
-- [ ]  [Guidelines的笔记](https://github.com/PaperFormulaIV/SurviveInWritingPapers/blob/master/How%20to%20write%20paper.md)
+- [x]  [Guidelines的笔记](https://github.com/PaperFormulaIV/SurviveInWritingPapers/blob/master/How%20to%20write%20paper.md)
 - [ ]  Paper选题笔记
 - [ ]  Paper论证笔记
 - [ ]  Paper结论笔记
